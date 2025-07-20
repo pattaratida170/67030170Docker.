@@ -17,7 +17,6 @@
         }
     },
     "remoteUser": "developer",
-    // ลบบรรทัด postCreateCommand นี้ออกไป:
     "workspaceFolder": "/home/developer/workspace",
     "mounts": [
         "source=/dev,target=/dev,type=bind"
